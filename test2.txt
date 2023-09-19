@@ -1,2 +1,2 @@
-Hello, I am test2 file and i am  from feature1 branch
-hello, I am line 2 from feature4 branch
+Hello I am line number 2 from master branch
+
